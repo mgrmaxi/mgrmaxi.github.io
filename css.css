@@ -1,7 +1,7 @@
 :root {
     --main-color:#00494e; 
     --sec:#fa9b42;
-    --font:rgb(255, 232, 181);
+    --font:rgb(20, 232, 181);
   }
 body{
     background-color:var(--main-color)
@@ -33,7 +33,7 @@ body{
 }
 .second{
     height: 290px;
-     background-color: var(--sec);
+     background-color: fff;
      color: var(--font);
      padding: 30px;
      transition-property:background-color ,color,height;
@@ -47,7 +47,7 @@ body{
 }
 .second2{
     height: 290px;
-     background-color: var(--main-color);
+     background-color: white;
      color: var(--font);
      padding: 30px;
      transition-property:background-color ,color,height;
