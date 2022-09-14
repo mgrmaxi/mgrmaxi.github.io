@@ -1,7 +1,7 @@
 :root {
     --main-color:#00494e; 
     --sec:#fa9b42;
-    --font:rgb(20, 232, 181);
+    --font:rgb(178 151 92);
   }
 body{
     background-color:var(--main-color)
